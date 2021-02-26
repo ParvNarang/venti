@@ -4,4 +4,5 @@ This program displays the functioning of a menu on an LCD with 3 options low, me
 
 ![10](https://user-images.githubusercontent.com/56078295/109321331-09747300-7877-11eb-8576-4e7c08ff46be.jpg) 
 
-![1](https://user-images.githubusercontent.com/56078295/109321372-13967180-7877-11eb-9613-374309df27f3.JPG)
+![11](https://user-images.githubusercontent.com/56078295/109321668-712abe00-7877-11eb-8d05-7161dc8879f8.jpg)
+
